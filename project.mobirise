@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "main.html",
+    "currentPage": "ru-main.html",
     "theme": {
       "name": "personam4",
       "title": "PersonaM4",
@@ -3570,7 +3570,7 @@
         }
       ]
     },
-    "main.html": {
+    "ru-main.html": {
       "settings": {
         "main": true,
         "title": "Ментор-психолог",
